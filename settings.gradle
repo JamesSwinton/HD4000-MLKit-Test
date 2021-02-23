@@ -1,0 +1,4 @@
+include ':HUDV2SDK'
+include ':v2SDK'
+include ':app'
+rootProject.name = "HD4000MLKitTest"

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.zebra.jamesswinton.hd4000mlkittest",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "properties": [],
+      "versionCode": 3,
+      "versionName": "3",
+      "enabled": true,
+      "outputFile": "HUD ML KIT Test (v2.1-beta).apk"
+    }
+  ]
+}
